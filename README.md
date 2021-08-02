@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/w6apq6u2hyfi2ynw/branch/main?svg=true)](https://ci.appveyor.com/project/kononova-daria/hw-ajs-4-1/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/w6apq6u2hyfi2ynw?svg=true)](https://ci.appveyor.com/project/kononova-daria/hw-ajs-4-1)
